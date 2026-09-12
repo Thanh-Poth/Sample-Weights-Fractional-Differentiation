@@ -1,0 +1,24 @@
+artifact_path: file:c:/Users/pothfred/Documents/T-S/Python/Projets/Sample Weights
+  + Fractional Differentiation/mlruns/1/models/m-6e91aaa2d39f4bad957e7b0ad238cde3/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.6
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.1
+    skops_trusted_types: null
+mlflow_version: 3.16.0
+model_id: m-6e91aaa2d39f4bad957e7b0ad238cde3
+model_size_bytes: 12298686
+model_uuid: m-6e91aaa2d39f4bad957e7b0ad238cde3
+prompts: null
+run_id: d509794474374a528bf1ea645450a6c1
+utc_time_created: '2026-09-11 15:06:58.164919'
