@@ -6,7 +6,7 @@
 
 ---
 
-## TL;DR for recruiters
+## Project Overview
 
 | | |
 |---|---|
@@ -61,7 +61,7 @@ mlflow ui   # browse the tracked runs
 
 ---
 
-## Skills demonstrated
+## Skills
 
 **Financial ML**: stationarity vs memory trade-off, fractional differencing, overlapping labels, sample weighting
 **Python**: pandas, NumPy, scikit-learn-style modelling, Jupyter
